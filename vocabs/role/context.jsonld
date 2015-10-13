@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "role": "https://w3id.org/role/",
+    "role:attendee": { "@type": "@id" },
+    "role:speaker": { "@type": "@id" },
+    "role:organizer": { "@type": "@id" },
+    "role:host": { "@type": "@id" },
+    "role:sponsor": { "@type": "@id" },
+    "role:member": { "@type": "@id" },
+    "role:chair": { "@type": "@id" },
+    "role:scribe": { "@type": "@id" },
+    "role:staff": { "@type": "@id" },
+    "role:producer": { "@type": "@id" },
+    "role:maintainer": { "@type": "@id" },
+    "role:consumer": { "@type": "@id" },
+    "role:customer": { "@type": "@id" },
+    "role:prosumer": { "@type": "@id" },
+    "role:carier": { "@type": "@id" },
+    "role:buyer": { "@type": "@id" },
+    "role:seller": { "@type": "@id" }
+  }
+}
